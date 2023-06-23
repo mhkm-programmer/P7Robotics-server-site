@@ -1,6 +1,3 @@
-# b7a11-toy-marketplace-server-side-mhkm-programmer
-b7a11-toy-marketplace-server-side-mhkm-programmer created by GitHub Classroom
-
 # P7ROBOTICS Starter Repository
 
 P7ROBOTICS is robotics toy website that available different and custom type toy!
